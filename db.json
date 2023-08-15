@@ -8,6 +8,7 @@
             "name": "Straight Leg Jean",
             "price": "$99.00",
             "category": "sell",
+            "status" : "",
             "description": "",
             "id": "77c87cff-7ad6-42bf-9bfa-06658d1a03a5"
         },
@@ -19,6 +20,7 @@
             "name": "Rose Patch",
             "price": "$10.00",
             "category": "sell",
+            "status" : "",
             "description": "",
             "id": "27a6d326-0652-4240-8b85-b18dd783108a"
         },
@@ -30,6 +32,7 @@
             "name": "Deni Vest",
             "price": "$45.00",
             "category": "sell",
+            "status" : "",
             "description": "",
             "id": "7f4227a5-b803-4213-bdda-baf53876016c"
         },
@@ -41,6 +44,7 @@
             "name": "Straight Cut Jean",
             "price": "$99.00",
             "category": "sell",
+            "status" : "",
             "description": "",
             "id": "0ee19e1a-6970-4a35-b413-439567298e8a"
         },
@@ -51,6 +55,7 @@
             "name": "Deni Bag",
             "price": "$15.00",
             "category": "sell",
+            "status" : "",
             "description": "",
             "id": "79b5025e-2754-46a3-8fd4-44a52913e12f"
         },
@@ -62,6 +67,7 @@
             "name": "Oversized Jacket",
             "price": "$65.00",
             "category": "sell",
+            "status" : "",
             "description": "",
             "id": "5b118cbd-0344-4405-8c4f-1ce406450190"
         },
@@ -72,6 +78,7 @@
             "name": "Tapered Shorts",
             "price": "$45.00",
             "category": "new",
+            "status" : "",
             "description": "",
             "id": "ab8dee1d-c672-4a27-a317-53c6865dcb8e"
         },
@@ -81,7 +88,8 @@
             ],
             "name": "Distressed Middies",
             "price": "$45.00",
-            "category": "new-label",
+            "category": "new",
+            "status" : "new arrival",
             "description": "",
             "id": "e61fbe34-39e5-4fee-8e38-365883ad7b66"
         },
@@ -92,7 +100,8 @@
             ],
             "name": "Straight Leg Shorts",
             "price": "$45.00",
-            "category": "new-label",
+            "category": "new",
+            "status" : "new arrival",
             "description": "",
             "id": "b69e7476-91d2-4bf7-9447-f82ba5e55796"
         },
@@ -103,6 +112,7 @@
             "name": "Tapered Shorts",
             "price": "$45.00",
             "category": "new",
+            "status" : "",
             "description": "",
             "id": "dcf36a61-58fc-478b-ba39-14e2680aa242"
         },
@@ -112,7 +122,8 @@
             ],
             "name": "Short Shorties",
             "price": "$45.00",
-            "category": "new-label",
+            "category": "new",
+            "status" : "new arrival",
             "description": "",
             "id": "6e5a4c0b-74c4-411a-b4ce-96c598c67ee2"
         },
@@ -124,6 +135,7 @@
             "name": "Mom Shorts",
             "price": "$45.00",
             "category": "new",
+            "status" : "",
             "description": "",
             "id": "73a6e8d1-5951-4c53-995d-db9dafe7a98b"
         },
@@ -135,6 +147,7 @@
             "name": "Banner",
             "price": "",
             "category": "banner",
+            "status" : "",
             "description": "",
             "id": "57636378-cc87-4057-b5bf-6e999cc7c48b"
         },
@@ -146,6 +159,7 @@
             "name": "Background Content 2",
             "price": "",
             "category": "background",
+            "status" : "",
             "description": "",
             "id": "0f42552a-e371-4c6d-a2a3-269c248e9605"
         },
@@ -156,6 +170,7 @@
             "name": "Banner-sun",
             "price": "",
             "category": "banner",
+            "status" : "",
             "description": "",
             "id": "82939e7f-0b32-4864-b0c4-9a911a33dba7"
         },
@@ -167,6 +182,7 @@
             "name": "Content1-Img",
             "price": "",
             "category": "content-img",
+            "status" : "",
             "description": "",
             "id": "c644cc06-2819-43e2-920c-98b9c10faa6b"
         },
@@ -179,6 +195,7 @@
             "name": "Slide-Img",
             "price": "",
             "category": "slide-img",
+            "status" : "",
             "description": "",
             "id": "16c7160c-5349-4c8f-bf95-95eee2d21c36"
         },
@@ -189,6 +206,7 @@
             "name": "logo",
             "price": "",
             "category": "logo",
+            "status" : "",
             "description": "",
             "id": "53d58a48-28c5-42a7-83c4-1f927d7a9c7f"
         },
@@ -200,6 +218,7 @@
             "name": "Form Image",
             "price": "",
             "category": "form",
+            "status" : "",
             "description": ""
         }
     ],
@@ -215,12 +234,6 @@
             "username": "adnam123",
             "email": "teddy.nam152@gmail.com",
             "password": "adnam123"
-        },
-        {
-            "id": "f22b031c-2214-4cc3-85ac-d37616e0a75a",
-            "username": "adnam198",
-            "email": "teddy.nam152@gmail.com",
-            "password": "adnam198"
         }
     ]
 }
